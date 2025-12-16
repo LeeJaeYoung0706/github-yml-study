@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 
-accounts:
+loans:
   message: "마이크로서비스를 만들어 봅시다. QA LOANS API"
   contactDetails:
     name: "sidle ( Lee jae young )"
