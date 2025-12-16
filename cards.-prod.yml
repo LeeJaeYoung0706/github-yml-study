@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "마이크로서비스를 만들어 봅시다. PROD CARDS API"
+  message: "마이크로서비스를 만들어 봅시다. PROD test3 API"
   contactDetails:
     name: "sidle ( Lee jae young )"
     email: "wodud@4019@gmail.com"
