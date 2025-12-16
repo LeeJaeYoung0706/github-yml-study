@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 
-accounts:
+cards:
   message: "마이크로서비스를 만들어 봅시다. PROD LOCAL API"
   contactDetails:
     name: "sidle ( Lee jae young )"
